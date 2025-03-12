@@ -1,3 +1,2 @@
 # fakiusagili.github.io
-My personal website
-# fakiusagili.github.io/iftaruygulamasi
+https://fakiusagili.github.io/iftaruygulamasi
