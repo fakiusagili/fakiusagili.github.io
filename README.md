@@ -1,2 +1,2 @@
 # fakiusagili.github.io
-https://fakiusagili.github.io/iftaruygulamasi
+[İftar Uygulaması](https://fakiusagili.github.io/iftaruygulamasi)
